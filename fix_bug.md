@@ -1,5 +1,5 @@
 fix_bug1
-fix_bug1
-fix_bug1
+fix_bug2
+fix_bug3
 fix_bug1
 fix_bug1
